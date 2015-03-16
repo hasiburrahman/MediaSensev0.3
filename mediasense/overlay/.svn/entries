@@ -1,0 +1,34 @@
+10
+
+dir
+120
+svn+ssh://svn.dsv.su.se/svn/mediasense/branches/MediaSense_githubv0.1/mediasense/overlay
+svn+ssh://svn.dsv.su.se/svn/mediasense
+
+
+
+2013-07-23T08:08:00.531396Z
+52
+jamiew
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1c217daa-1ce1-4296-b221-3786dbdb3a57
+
+persistence
+dir
+
+replication
+dir
+

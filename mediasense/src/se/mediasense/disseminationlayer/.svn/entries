@@ -1,0 +1,37 @@
+10
+
+dir
+120
+svn+ssh://svn.dsv.su.se/svn/mediasense/branches/MediaSense_githubv0.1/mediasense/src/se/mediasense/disseminationlayer
+svn+ssh://svn.dsv.su.se/svn/mediasense
+
+
+
+2013-07-09T12:30:01.237863Z
+42
+jamiew
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1c217daa-1ce1-4296-b221-3786dbdb3a57
+
+communication
+dir
+
+disseminationcore
+dir
+
+lookupservice
+dir
+
